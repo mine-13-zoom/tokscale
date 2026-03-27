@@ -133,7 +133,7 @@ pub fn parse_kilo_sqlite_with_fallback(
             .to_string();
 
         let unified = UnifiedMessage::new_with_agent(
-            "kilo",
+            "kilocode",
             model_id,
             provider,
             session_id,

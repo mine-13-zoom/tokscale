@@ -221,7 +221,7 @@ define_clients!(
         parse_local: true
     },
     Kilo = 14 => {
-        id: "kilo",
+        id: "kilocode",
         root: PathRoot::XdgData,
         relative: "kilo/kilo.db",
         pattern: "kilo.db",
